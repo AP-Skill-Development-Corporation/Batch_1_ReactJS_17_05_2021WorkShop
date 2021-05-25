@@ -1,0 +1,97 @@
+/* h1{
+    font-size: 25px;
+    color:blue;
+    background-color: chocolate;
+    text-align: center;
+} */
+
+#gayathri{
+ color:red;
+}
+
+.gayathri{
+    color:darkblue;
+}
+
+*{
+    /* text-align:center; */
+}
+/* gayathri
+raja
+surya */
+/* Reactjs */
+
+
+body{
+    /* background-color: darkgoldenrod; */
+    /* background-image: url("taj.jpg"); */
+    /* background-repeat: repeat-x; */
+    background-repeat: no-repeat;
+    background-position:top ;
+}
+p{
+    /* border-style: dotted; */
+    border-style: solid;
+    /* border-style: dashed; */
+    border-width:4px;
+    border-color:red;
+    border-radius: 6px;
+    
+    
+}
+img{
+    border-radius: 25px;
+    box-shadow: 5px  0 orange;
+    box-shadow: 0  10px red;
+}
+.parent{
+    background-color:aqua;
+    padding:5% 10%;
+    margin:1%;
+}
+.child{
+    background-color: darkmagenta;
+    /* margin:10%; */
+    padding:5%;
+}
+a{
+    display:block
+}
+.h1{
+    /* background-color: cornflowerblue; */
+    display:inline;
+    background-color: darkred;
+}
+.h2{
+    /* background-color: cornflowerblue; */
+    display:inline;
+    background-color: deeppink;
+}
+#h1{
+    display:inline-block;
+    background-color:darkred;
+}
+#h2{
+    display:inline-block;;
+    background-color: deeppink;
+}
+.none{
+    display:none;
+}
+.main{
+    display:flex;
+    /* justify-content: space-around; */
+    /* flex-direction:column-reverse; */
+    background-color: deeppink;
+    /* align-items:baseline;*/
+    flex-wrap:wrap-reverse;
+    
+
+}
+.sub{
+    background-color: gold;
+    /* margin:5%; */
+    padding:2%;
+    margin:2%;
+    width:20%;
+}
