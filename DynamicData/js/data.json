@@ -1,0 +1,33 @@
+{
+	"data": {
+		"image":"images/apssdc_final.png",
+		"name": "APSSDC",
+		"courses": ["React", "JS", "HTML", "ES6","Python", "Django"]
+	},
+	"trainers": [{
+			"name": "Raja",
+			"phonenumber": "9807654321",
+			"salari": "45000"
+		},
+		{
+			"name": "Surya",
+			"phonenumber": "23456789098",
+			"salari": "46000"
+		},
+		{
+			"name": "Gayathri",
+			"phonenumber": "9876543210",
+			"salari": "42000"
+		},
+		{
+			"name": "APSSDC",
+			"phonenumber": "98763210",
+			"salari": "50000"
+		},
+		{
+			"name": "Naren",
+			"phonenumber": "56789009870",
+			"salari": "20000"
+		}
+	]
+}
